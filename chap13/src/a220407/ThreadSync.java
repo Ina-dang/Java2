@@ -12,7 +12,7 @@ public class ThreadSync {
 		worker1.join();
 		
 		
-		//일단 줘
+		//일단 줘ehlfemt
 		System.out.println(counter.count);
 	}
 }
